@@ -348,7 +348,7 @@ html{
 
 @keyframes python{
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 75%;}
 }
 
 .skills .skill .javascript{
@@ -368,7 +368,7 @@ html{
 
 @keyframes htmlcss{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 65%;}
 }
 
 .skills .skill .photoshop{
@@ -378,7 +378,7 @@ html{
 
 @keyframes photoshop{
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 45%;}
 }
 
 .skills .skill .hp1{
@@ -398,7 +398,7 @@ html{
 
 @keyframes hp2{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 85%;}
 }
 
 .skills .skill .hp3{
@@ -438,7 +438,7 @@ html{
 
 @keyframes hp6{
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 90%;}
 }
 
 .curriculum{
