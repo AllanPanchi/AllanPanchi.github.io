@@ -398,7 +398,7 @@ html{
 
 @keyframes hp2{
     0%{width: 0%;}
-    100%{width: 85%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .hp3{
